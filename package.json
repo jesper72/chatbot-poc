@@ -1,0 +1,23 @@
+{
+  "name": "chatbot-poc",
+  "version": "1.0.0",
+  "description": "Simple chatbot-poc based upon microsoft chatbot framework with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesper72/chatbot-poc.git"
+  },
+  "author": "Jesper Svensson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesper72/chatbot-poc/issues"
+  },
+  "homepage": "https://github.com/jesper72/chatbot-poc#readme",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0"
+  }
+}
